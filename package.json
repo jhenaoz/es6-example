@@ -1,0 +1,20 @@
+{
+  "name": "es6-example",
+  "version": "1.0.0",
+  "description": "example of some es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "node"
+  ],
+  "author": "jhenaoz93@gmail.com",
+  "license": "MIT",
+  "engines":{
+    "node": ">=5.8.0",
+    "npm":">=3.7.3"
+  }
+}
